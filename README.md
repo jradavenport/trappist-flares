@@ -1,5 +1,7 @@
 # Flares from TRAPPIST-1 with K2
 
+[![DOI](https://zenodo.org/badge/84344689.svg)](https://zenodo.org/badge/latestdoi/84344689)
+
 By James Davenport (@jradavenport), Rishi Paudel, and John Gizis (@jgizis)
 
 

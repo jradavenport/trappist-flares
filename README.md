@@ -11,7 +11,7 @@ The largest flare, first identified by Tom Barclay (@mrtommyb) on Twitter a coup
 ![](flare_32.png)
 
 A majority of the flares are between 20 and 40 minutes in total duration, comparable to the most active stars observed in the Kepler mission.
-![](E_vs_dur.png)
+![](E_vs_Dur.png)
 
 Note [Vida et al (2017)](https://arxiv.org/abs/1703.10130) have reproduced these results, but use a different quiescent energy level. Our "equivalent durations" are converted to energies using the zeropoint calculated as in [Gizis et al. (2017)](https://arxiv.org/abs/1703.08745) assuming a 10,000 K blackbody for the flare spectrum.
 ![](FlareStar_trappist1.png)
